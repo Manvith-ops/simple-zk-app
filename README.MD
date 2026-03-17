@@ -1,6 +1,6 @@
-# Simple Circuit: My First Zero Knowledge Proof Project
+# Simple Circuit: Your First Zero Knowledge Proof Project
 
-Welcome to my first project using **Noir** for generating zero knowledge proofs!
+This is your first project using **Noir** for generating zero knowledge proofs! 
 
 ---
 
@@ -273,10 +273,5 @@ Feel free to fork, modify, and learn!
 
 ---
 
-*Last Updated: October 2025*
 
-**For detailed guides, see:**
-- [Installation Guide](./0.%20Installation/README.MD)
-- [Basics & Concepts](./Basics.MD)
-- [Noir Language Guide](./NOIR_GUIDE.md)
-
+ Powered by zkVerify!
